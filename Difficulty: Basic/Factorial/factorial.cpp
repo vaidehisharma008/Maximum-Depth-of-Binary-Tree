@@ -1,10 +1,10 @@
-class Solution {
-  public:
-    void factorial(int n) {
-        int ans = 1;
-        for (int i = 2; i <= n; i++) {
-            ans = ans * (i);
-        }
-        cout << ans << endl;
+// User function Template for C++
+
+int nFactorial(int n) {
+    int ans = 1;
+    while (n!=0) {
+        ans=ans*n;
+        n--;
     }
-};
+    return ans;
+}
