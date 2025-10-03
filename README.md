@@ -1,7 +1,7 @@
 ## 🎉 Hacktoberfest 2025
 
 This repository is participating in **Hacktoberfest 2025**!  
-If you make **4 valid Pull Requests (PRs)** to this repo during October, they will count toward your Hacktoberfest goal.  
+If you make **6 valid Pull Requests (PRs)** to this repo during October, they will count toward your Hacktoberfest goal.  
 
 ### ✅ How to Participate:
 - Look at the [Issues](../../issues) tab for open problems.
