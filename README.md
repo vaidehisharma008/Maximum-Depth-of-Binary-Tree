@@ -1,4 +1,12 @@
-# GeeksforGeeks-Problems 🚀
+## 🎉 Hacktoberfest 2025
+
+This repository is participating in **Hacktoberfest 2025**!  
+If you make **4 valid Pull Requests (PRs)** to this repo during October, they will count toward your Hacktoberfest goal.  
+
+### ✅ How to Participate:
+- Look at the [Issues](../../issues) tab for open problems.
+- Solve the problem in C++ and submit a PR.
+- Tag your PR with `hacktoberfest-accepted` if merged.
 
 This repository contains my solutions to coding problems from [GeeksforGeeks](https://www.geeksforgeeks.org/), categorized by difficulty:
 
@@ -11,6 +19,3 @@ This repository contains my solutions to coding problems from [GeeksforGeeks](ht
 
 ## 💡 Language Used
 - C++ 💻
-
-## 🔖 Contributions
-This repo is for personal practice, but PRs are welcome!
